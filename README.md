@@ -1,10 +1,6 @@
 <h1 align="center">Hellu 👋, I'm Neha Gupta</h1>
 <h3 align="center">A passionate Python developer who would like to expand her technical skills. Learn the language from scratch and be a professional programmer.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nehagupta1707&label=Profile%20views&color=0e75b6&style=flat" alt="nehagupta1707" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=nehagupta1707" alt="nehagupta1707" /></a> </p>
-
 - 🔭 I’m currently pursuing **Bachelors of engineering**
 
 - 🌱 I’m currently learning **Python, Machine learning and Data Science**
